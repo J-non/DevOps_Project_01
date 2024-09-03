@@ -32,7 +32,6 @@
    - 모달을 사용한 호텔 찾기 및 예약 화면
    - 이미지 슬라이드 및 스와이프 기능
    <br>
-   <br>
    
 ### 로그인 및 회원가입
 ![1차 로그인](https://github.com/user-attachments/assets/0847edfe-da9c-46dd-b123-d93d26261658)
@@ -40,18 +39,15 @@
    - 가입한 사용자 중복 확인
    - CSS를 사용한 회원가입, 로그인창 animation 구현
    <br>
-   <br>
    
 ### 마이페이지 및 관리자 페이지
 ![1차 마이페이지](https://github.com/user-attachments/assets/e24d2ec3-8950-4793-bb32-23edb4084572)
    - 현재 인증한 사용자의 정보 확인 및 수정
    - 관리자 인증시 사용자 가입허가 
    <br>
-   <br>
    
 ### 게시판
   ![1차 게시판](https://github.com/user-attachments/assets/5a08363f-12ef-45ce-9317-afed8e223641)
-  <br>
   ![페이지네이션 게시판](https://github.com/user-attachments/assets/7ea8df03-2c7e-41f8-aed8-a84684472891)
    - 작성된 게시글 조회
    - 게시글 작성, 수정, 삭제
