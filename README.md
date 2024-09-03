@@ -47,7 +47,6 @@
    <br>
    
 ### 게시판
-  ![1차 게시판](https://github.com/user-attachments/assets/5a08363f-12ef-45ce-9317-afed8e223641)
   ![페이지네이션 게시판](https://github.com/user-attachments/assets/7ea8df03-2c7e-41f8-aed8-a84684472891)
    - 작성된 게시글 조회
    - 게시글 작성, 수정, 삭제
